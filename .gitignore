@@ -1,0 +1,3 @@
+traffic.sqlite*
+*.log
+node_modules/
